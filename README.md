@@ -2,7 +2,7 @@
 
 Cleaning a deliberately messy dataset of 10,000 cafe transactions from 2023, with every decision counted and checked.
 
-**Source:** "Cafe Sales – Dirty Data for Cleaning Training" on Kaggle. [Add dataset link]
+**Source:** "Cafe Sales – Dirty Data for Cleaning Training" on Kaggle. (https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training)
 
 ## Result
 
